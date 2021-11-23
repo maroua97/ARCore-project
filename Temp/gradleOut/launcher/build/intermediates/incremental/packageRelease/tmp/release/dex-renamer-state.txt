@@ -1,0 +1,4 @@
+#Sat Jan 30 16:32:27 WET 2021
+base.0=D\:\\Maroua_Docs\\TP-ARCore\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/ARCoreAugmentedImage.unity
+    guid: cccc8d94bf0d9d54bb94911d8cf90a57
+  - enabled: 0
+    path: Assets/Scenes/AugmentedFace.unity
+    guid: b7611eb2723ec06438faa15ac0f36483
+  - enabled: 1
+    path: Assets/Scenes/SolarSystem.unity
+    guid: b7b0f6f9f5ee1da4e83ff85222b36835
+  m_configObjects: {}
